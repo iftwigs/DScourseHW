@@ -1,2 +1,2 @@
 # DScourseHW
-homework from data science course
+some old homeworks from data science course
